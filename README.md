@@ -1,8 +1,12 @@
 This project was created with React and Firebase for the Authentication and Cloud Storage
 
 ## Deployment Website
-https://treinta-login.web.app/
 ![Treinga LogIn](./.readme-static/treinta_app.png)
+## URL Project
+https://treinta-login.web.app/
+## Technologies
+@react-google-maps/api
+firebase
 ## Available Scripts
 
 In the project directory, you can run:
