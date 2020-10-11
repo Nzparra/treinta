@@ -2,7 +2,7 @@ This project was created with React and Firebase for the Authentication and Clou
 
 ## Deployment Website
 https://treinta-login.web.app/
-![Treinga LogIn](./.readme-static/Treinta.png)
+![Treinga LogIn](./.readme-static/Treinta_app.png)
 ## Available Scripts
 
 In the project directory, you can run:
